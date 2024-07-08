@@ -1,0 +1,1 @@
+document.write("helle java script oyu bhiuty b ")
